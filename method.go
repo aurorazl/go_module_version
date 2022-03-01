@@ -6,6 +6,6 @@ import (
 )
 
 func Test() {
-	fmt.Println("version 1")
+	fmt.Println("version 2")
 	DirectoryA.MethodA()
 }

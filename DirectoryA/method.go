@@ -3,5 +3,5 @@ package DirectoryA
 import "fmt"
 
 func MethodA() {
-	fmt.Println("method a version 1")
+	fmt.Println("method a version 2")
 }
