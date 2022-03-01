@@ -1,3 +1,3 @@
-module github.com/aurorazl/go_module_version/v2
+module github.com/aurorazl/go_module_version
 
 go 1.16
