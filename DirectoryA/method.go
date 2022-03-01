@@ -2,6 +2,6 @@ package DirectoryA
 
 import "fmt"
 
-func methodA() {
+func MethodA() {
 	fmt.Println("method a")
 }
