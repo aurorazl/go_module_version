@@ -3,5 +3,5 @@ package go_module_version
 import "fmt"
 
 func Test() {
-	fmt.Println("version 3")
+	fmt.Println("version 1")
 }
